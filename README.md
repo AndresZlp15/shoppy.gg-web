@@ -1,0 +1,1 @@
+# shoppy.gg-web
