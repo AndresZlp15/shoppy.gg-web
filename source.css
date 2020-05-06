@@ -1,0 +1,29 @@
+#backgroundvideo {
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: fill;
+}
+
+#particles {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.dbtn {
+    display: flex;
+    position: fixed;
+    bottom: 0px;
+    right: 30px;
+    z-index: 99;
+    font-size: 3rem !important;
+    border: none !important;
+    outline: none;
+    cursor: pointer;
+    background: none !important;
+}
+
